@@ -1,7 +1,7 @@
 🗣️ Ron Bajrami Speech To Text
 A modern, browser-based voice-to-text web app. Convert your speech into text in real time, download transcripts, and switch languages with a click—all in your browser!
 
-<p align="center"> <img src="Front.png" alt="App Home" width="400"/> <br> <em>Landing screen</em> </p>
+<p align="center"> <img src="Front .png" alt="App Home" width="400"/> <br> <em>Landing screen</em> </p>
 🚀 Features
 Real-Time Speech Recognition
 
@@ -17,7 +17,7 @@ No Build or Server Needed
 Frontend: HTML, CSS, JavaScript, TypeScript
 
 📸 Screenshots
-<p align="center"> <img src="Front.png" alt="App Home" width="400"/> <br> <em>Home Screen</em> </p> <p align="center"> <img src="Listening.png" alt="Listening Mode" width="400"/> <br> <em>Listening & Transcription</em> </p>
+<p align="center"> <img src="Front .png" alt="App Home" width="400"/> <br> <em>Home Screen</em> </p> <p align="center"> <img src="Listening.png" alt="Listening Mode" width="400"/> <br> <em>Listening & Transcription</em> </p>
 📝 How To Use
 Clone the repository
 
