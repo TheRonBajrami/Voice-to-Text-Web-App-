@@ -1,59 +1,41 @@
-🗣️ Ron Bajrami Speech To Text
-A modern, browser-based voice-to-text web app. Convert your speech into text in real time, download transcripts, and switch languages with a click—all in your browser!
+# Ron Bajrami Speech-to-Text
 
-<p align="center"> <img src="Front .png" alt="App Home" width="400"/> <br> <em>Landing screen</em> </p>
-🚀 Features
-Real-Time Speech Recognition
+A simple web app that captures your speech and converts it to text in real time, powered by the Web Speech API.
 
-Multi-Language Support
+---
 
-Transcript Download (.txt)
+## 📸 Demo
 
-One-Click Clear
+**Idle State**  
+![Idle State](Front.png)
 
-No Build or Server Needed
+**Listening State**  
+![Listening State](Listening.png)
 
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript, TypeScript
+---
 
-📸 Screenshots
-<p align="center"> <img src="Front .png" alt="App Home" width="400"/> <br> <em>Home Screen</em> </p> <p align="center"> <img src="Listening.png" alt="Listening Mode" width="400"/> <br> <em>Listening & Transcription</em> </p>
-📝 How To Use
-Clone the repository
+## 🚀 Features
 
-bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-Open the App
+- 🎤 **Start/Stop listening**: control voice capture  
+- 🌐 **Language selection**: choose your preferred recognition language  
+- 📝 **Live transcript**: see your spoken words appear in the text box  
+- 🧹 **Clear**: reset the transcript  
+- 💾 **Download**: save your transcript as a `.txt` file
 
-Open the index.html file in your preferred browser:
+---
 
-bash
-open index.html
-Or just double-click on index.html in your file explorer.
+## 🛠 Tech Stack
 
-Transcribe Speech
+- **HTML**  
+- **CSS**  
+- **JavaScript** (Web Speech API)  
+- **TypeScript**
 
-Select your language from the dropdown.
+---
 
-Click Start Listening and begin speaking.
+## 📥 Installation
 
-Click Stop Listening when finished.
-
-Your transcript will appear in the Result box.
-
-Manage Your Transcript
-
-Download: Click to save as .txt.
-
-Clear: Click to erase the result.
-
-⚠️ Notes
-Make sure to allow microphone permissions in your browser.
-
-No installation, server, or build steps required—just open and go!
-
-📄 License
-MIT License
-
-Built by Ron Bajrami
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/your-username/voice-to-text.git
+   cd voice-to-text
