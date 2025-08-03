@@ -6,9 +6,6 @@ A simple web app that captures your speech and converts it to text in real time,
 
 ## 📸 Demo
 
-**Idle State**  
-![Idle State](Front.png)
-
 **Listening State**  
 ![Listening State](Listening.png)
 
